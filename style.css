@@ -1,0 +1,8 @@
+body {
+  font-family: system-ui;
+  font-size: 40px;
+  background: blue;
+  color: white;
+  text-align: center;
+}
+p { color: red}
